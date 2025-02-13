@@ -33,7 +33,3 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visualstudiocode&logoColor=22ABF3)
 ![Eclipse IDE](https://img.shields.io/badge/eclipse%20ide-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![Intellij](https://img.shields.io/badge/intellij%20idea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
-
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ddioni&layout=compact)
