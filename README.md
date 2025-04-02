@@ -21,6 +21,9 @@ Here are some ideas to get you started:
 ![Spring Boot](https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000.svg?&style=for-the-badge&logo=Flask&logoColor=white)
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+![NextJS](https://img.shields.io/badge/NextJS-000000.svg?&style=for-the-badge&logo=Next.JS&logoColor=white)  
   
 ![AWS](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-DD2C00.svg?&style=for-the-badge&logo=firebase&logoColor=white)
